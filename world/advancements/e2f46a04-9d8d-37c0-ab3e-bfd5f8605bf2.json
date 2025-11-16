@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-11-10 20:40:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-11-10 20:40:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2025-11-10 20:40:31 +0100",
+      "minecraft:plains": "2025-11-10 20:40:47 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3839
+}
